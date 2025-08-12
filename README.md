@@ -68,3 +68,11 @@ Our goal: **Build a model that accurately predicts whether a banknote is genuine
 - **Key Insight:** Wavelet-transformed variance and skewness are the most important indicators.
 
 ---
+## Future Improvements
+Add deep learning approach using neural networks
+
+Deploy model as a web app with Flask or Streamlit
+
+Collect a larger dataset for better generalization
+
+---
